@@ -1,3 +1,16 @@
+# Keep Reading and Nobody Explodes
+
+LITT - Creative Project - Educational Game
+2024-04-23
+Marwa Zoubir and Chris Xi Yang
+Contemporary Coming of Age sect. 038 - Winter 2024
+
+## Description
+
+Game inspired by Keep Talking and Nobody Explodes, focusing on the analysis of litterary themes from the text "Playing Metal Gear Solid V: The Phantom Pain" by Jamil Jan Kochai.
+
+Video game portion created using Svelte and SvelteKit.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
