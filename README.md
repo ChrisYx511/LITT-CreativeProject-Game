@@ -1,8 +1,11 @@
 # Keep Reading and Nobody Explodes
 
 LITT - Creative Project - Educational Game
+
 2024-04-23
+
 Marwa Zoubir and Chris Xi Yang
+
 Contemporary Coming of Age sect. 038 - Winter 2024
 
 ## Description
