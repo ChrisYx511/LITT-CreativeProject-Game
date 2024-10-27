@@ -1,5 +1,5 @@
 export const correctWireID = 6
-export const timerValue = 120
+export const timerValue = 600
 export const keypadSequence = [3, 2, 0, 1]
 export const buttonReleaseValue = "4"
 
